@@ -4,8 +4,8 @@
   "description": "Lifeserv - On-demand service marketplace",
   "private": true,
   "scripts": {
-    "start": "node ../backend/src/server.js",
-    "dev": "nodemon ../backend/src/server.js"
+    "start": "node backend/src/server.js",
+    "dev": "nodemon backend/src/server.js"
   },
   "keywords": [
     "lifeserv",
